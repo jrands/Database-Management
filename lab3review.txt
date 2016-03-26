@@ -1,0 +1,47 @@
+8 pts
+
+Correct SQL statements
+SQL statements are readable
+Correct output for some queries
+
+Recommendations: 
+ To improve your readability, write queries instead of this
+  SELECT *
+  FROM products
+  WHERE city != 'Dallas'
+  AND city != 'Duluth'
+  AND priceUSD >= 1;
+ do it like this:
+  SELECT *
+  FROM products
+  WHERE city != 'Dallas' 
+    AND city != 'Duluth' 
+    AND priceUSD >= 1;
+
+
+7. List all data for orders in January or March.
+
+Incorrect output
+- It seems like you did not read the correct instructions for this query. Read
+  it again, please.
+
+
+9. List all orders from the customer whose cid is C005.
+
+Incorrect output
+- You are not listing the orders, but customer info!
+
+
+In general: 
+
+- Test all your SQL statements.
+
+- Make sure you read all the instructions for queries really well.
+
+- PLEASE only include your queries! You included a lot of other things. You
+  droped my tables when I ran your file! I am a bit upset about that.
+
+- Make sure your name is somewhere in the .sql file.
+
+
+- Dr. Rivas
