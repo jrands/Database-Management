@@ -1,0 +1,30 @@
+9 pts
+
+1. 
+
+Evidence looks ok.
+
+Good organization of screenshots.
+
+
+2.
+
+Sufficient knowledge of the terms primary key, candidate key, and superkey.
+
+
+3.
+
+I think you are mistaking rows for fields. A field would be a column or
+attribute.
+
+You did not discuss what fields were -nullable-.
+
+
+4.
+
+The ``frist normal form'' rule has nothing to do with this statement ``This
+means that the transaction must fully happen or not happen at all''. Please
+check your notes and the textbook Chapter 6.1.
+
+
+- Dr. Rivas
