@@ -1,0 +1,15 @@
+7 pts
+
+Correct output for some queries
+Mostly correct queries
+Mostly correct SQL statements
+SQL statements are somewhat readable
+
+1. incorect
+2. error
+4. error
+6. error
+
+
+- Dr. Rivas
+
